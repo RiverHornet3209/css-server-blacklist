@@ -1,5 +1,7 @@
 # CS:S-server-blacklist
 
+Forked from https://github.com/Ballganda/css-server-blacklist, it now blocks thousands more spam servers
+
 This is my server blacklist file to block the giant cess pool of fake servers that started to appear is CS:S in 2023  
 
 ## If you still have spam in your CS:S browser after installing this sort them by IP address in browser and report any unique IPs as an issue here in the issues section. Please we need to work together to clear this spam.
@@ -12,7 +14,7 @@ I will update as I notice my browser filling up again with trash.
 https://steamcommunity.com/sharedfiles/filedetails/?id=3013281836  
   
 or text instructions here...  
-#Installation/import
+# Installation/import
 
 Recommended method is to import this list into your game. This will add to any blacklisting you may have already done.  
 Download the "server_blacklist.txt" file from here to a location you remember. Can delete the file after import  
